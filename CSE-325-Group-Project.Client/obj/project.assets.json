@@ -2327,11 +2327,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/monkies989/Documents/_BYU-I/_Spring 2026/CSE 325 .Net Software Development/CSE-325-Group-Project/CSE-325-Group-Project.Client/CSE325project.Client.csproj",
+      "projectUniqueName": "/Users/monkies989/Documents/_BYU-I/_Spring 2026/CSE 325 .Net Software Development/ReservationProject/CSE-325-Group-Project.Client/CSE325project.Client.csproj",
       "projectName": "CSE325project.Client",
-      "projectPath": "/Users/monkies989/Documents/_BYU-I/_Spring 2026/CSE 325 .Net Software Development/CSE-325-Group-Project/CSE-325-Group-Project.Client/CSE325project.Client.csproj",
+      "projectPath": "/Users/monkies989/Documents/_BYU-I/_Spring 2026/CSE 325 .Net Software Development/ReservationProject/CSE-325-Group-Project.Client/CSE325project.Client.csproj",
       "packagesPath": "/Users/monkies989/.nuget/packages/",
-      "outputPath": "/Users/monkies989/Documents/_BYU-I/_Spring 2026/CSE 325 .Net Software Development/CSE-325-Group-Project/CSE-325-Group-Project.Client/obj/",
+      "outputPath": "/Users/monkies989/Documents/_BYU-I/_Spring 2026/CSE 325 .Net Software Development/ReservationProject/CSE-325-Group-Project.Client/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/monkies989/.nuget/NuGet/NuGet.Config"
@@ -2346,8 +2346,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/Users/monkies989/Documents/_BYU-I/_Spring 2026/CSE 325 .Net Software Development/CSE-325-Group-Project/CSE325project.Shared/CSE325project.Shared.csproj": {
-              "projectPath": "/Users/monkies989/Documents/_BYU-I/_Spring 2026/CSE 325 .Net Software Development/CSE-325-Group-Project/CSE325project.Shared/CSE325project.Shared.csproj"
+            "/Users/monkies989/Documents/_BYU-I/_Spring 2026/CSE 325 .Net Software Development/ReservationProject/CSE325project.Shared/CSE325project.Shared.csproj": {
+              "projectPath": "/Users/monkies989/Documents/_BYU-I/_Spring 2026/CSE 325 .Net Software Development/ReservationProject/CSE325project.Shared/CSE325project.Shared.csproj"
             }
           }
         }

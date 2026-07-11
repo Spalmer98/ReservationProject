@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B/0P0VoJjOU=",
+  "dgSpecHash": "vgtKW0rkloY=",
   "success": true,
-  "projectFilePath": "/Users/monkies989/Documents/_BYU-I/_Spring 2026/CSE 325 .Net Software Development/CSE-325-Group-Project/CSE-325-Group-Project.Client/CSE325project.Client.csproj",
+  "projectFilePath": "/Users/monkies989/Documents/_BYU-I/_Spring 2026/CSE 325 .Net Software Development/ReservationProject/CSE-325-Group-Project.Client/CSE325project.Client.csproj",
   "expectedPackageFiles": [
     "/Users/monkies989/.nuget/packages/blazored.localstorage/4.5.0/blazored.localstorage.4.5.0.nupkg.sha512",
     "/Users/monkies989/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.7/microsoft.aspnetcore.app.internal.assets.10.0.7.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aoAZ+BDINfU=",
+  "dgSpecHash": "1fFLNfER1ZE=",
   "success": true,
-  "projectFilePath": "/Users/monkies989/Documents/_BYU-I/_Spring 2026/CSE 325 .Net Software Development/CSE-325-Group-Project/CSE-325-Group-Project.Server/CSE325project.Server.csproj",
+  "projectFilePath": "/Users/monkies989/Documents/_BYU-I/_Spring 2026/CSE 325 .Net Software Development/ReservationProject/CSE-325-Group-Project.Server/CSE325project.Server.csproj",
   "expectedPackageFiles": [
     "/Users/monkies989/.nuget/packages/bcrypt.net-next/4.2.0/bcrypt.net-next.4.2.0.nupkg.sha512",
     "/Users/monkies989/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
