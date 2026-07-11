@@ -1,7 +1,7 @@
 {
   "apphosting": {
     "backendId": "room-reservation-project",
-    "rootDir": "/",
+    "rootDir": "/ReservationProject/CSE-325-Group-Project.Server/CSE325project.Server.csproj",
     "ignore": [
       "node_modules",
       ".git",
