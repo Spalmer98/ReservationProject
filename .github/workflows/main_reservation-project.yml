@@ -34,8 +34,8 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: ASP-app
-          path: https://github.com/Spalmer98/ReservationProject/actions/runs/29599671724/artifacts/8414472443
-
+          path: './published/**'
+          
   deploy:
     runs-on: windows-latest
     needs: build
