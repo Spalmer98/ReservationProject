@@ -34,7 +34,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: ASP-app
-          path: _site/
+          path: ./CSE-325-Group-Project.Client
           
   deploy:
     runs-on: windows-latest
