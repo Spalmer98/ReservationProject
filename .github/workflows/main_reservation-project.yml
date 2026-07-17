@@ -30,11 +30,15 @@ jobs:
       - name: Publish to folder
         run: msbuild /t:Build /p:DeployOnBuild=true /p:PublishProfile=FolderProfile /p:PackageAsSingleFile=false /p:OutDir="path"
 
-      - name: Upload artifact for deployment job
+      - name: List workspace contents
+        run: ls -la
+
+      - name: Upload published files
         uses: actions/upload-artifact@v4
         with:
-          name: ASP-app
-          path: ./CSE-325-Group-Project.Client/wwwroot
+            name: published-files
+            path: ./published/  # Corrected path without the leading root slash
+            if-no-files-found: error
           
   deploy:
     runs-on: windows-latest
