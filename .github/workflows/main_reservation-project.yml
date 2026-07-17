@@ -34,7 +34,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
             name: ASP-app
-            path: ./ReservationProject  # Corrected path without the leading root slash
+            path: ./  # Corrected path without the leading root slash
             if-no-files-found: error
           
   deploy:
